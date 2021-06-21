@@ -23,4 +23,4 @@ calculate your general average from Mon bureau numérique
 * config.ini
 * chromedriver.exe
 * Google chrome
-- Then you must exectute "moyenne.exe"
+- Then you just exectute "moyenne.exe"
